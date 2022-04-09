@@ -2,4 +2,4 @@
 
 ### Проекты в разработке
 
-[Проекты](https://github.com/orgs/bottifyLab/projects)
+[Github проекты](https://github.com/orgs/bottifyLab/projects)
