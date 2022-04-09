@@ -1,6 +1,6 @@
-![Alt text](/cover.jpg?raw=true "Title")
+## bottifyLab - проекты в разработке
 
----
+![alt text](https://github.com/bottifyLab/.github/blob/main/cover.jpg?raw=true)
 
-##bottifyLab - проекты в разработке
+
 
