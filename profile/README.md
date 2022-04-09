@@ -1,4 +1,4 @@
-![Alt text](cover.jpg?raw=true "Title")
+![Alt text](/cover.jpg?raw=true "Title")
 
 ---
 
